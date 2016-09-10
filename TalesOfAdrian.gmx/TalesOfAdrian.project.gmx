@@ -10,6 +10,7 @@
   <paths name="paths"/>
   <rooms name="rooms">
     <room>rooms\Start</room>
+    <room>rooms\rm_test2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
